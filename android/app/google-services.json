@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104937197810",
+    "project_id": "blogesta-298a8",
+    "storage_bucket": "blogesta-298a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104937197810:android:384de7b617c48377c2806b",
+        "android_client_info": {
+          "package_name": "com.example.blogesta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104937197810-tgb11va6ebs9vvknkanm6msnv1o30l62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVfRzjMwo5TYuM5-ObnC-T1oWJK8NW_nI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104937197810-tgb11va6ebs9vvknkanm6msnv1o30l62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
